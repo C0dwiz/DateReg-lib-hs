@@ -14,7 +14,7 @@ Haskell клиент для работы с [DateRegBot API](https://docs.goy.gu
 ```cabal
 source-repository-package
   type: git
-  location: https://github.com/yourusername/date-reg-api-hs
+  location: https://github.com/C0dwiz/DateReg-lib-hs
   tag: v1.0.0
 ```
 
@@ -24,8 +24,8 @@ build-depends: date-reg-api >= 1.0.0
 ```
 Локальная установка
 ```bash
-git clone https://github.com/yourusername/date-reg-api-hs
-cd date-reg-api-hs
+git clone https://github.com/C0dwiz/DateReg-lib-hs
+cd DateReg-lib-hs
 cabal install
 ```
 
