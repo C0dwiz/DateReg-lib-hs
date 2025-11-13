@@ -1,6 +1,6 @@
 # DateReg API Library
 
-Python библиотека для работы с [DateRegBot API](https://docs.goy.guru/api) - получение даты регистрации аккаунтов Telegram, ID пользователей по их имени и другие данные.
+Haskell клиент для работы с [DateRegBot API](https://docs.goy.guru/api) - получение даты регистрации аккаунтов Telegram, ID пользователей по их имени и другие данные.
 
 ## Требования
 
