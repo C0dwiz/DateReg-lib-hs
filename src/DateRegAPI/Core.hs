@@ -36,7 +36,7 @@ instance Default DateRegConfig where
 defaultConfig :: DateRegConfig
 defaultConfig = DateRegConfig
   { configToken = ""
-  , configBaseUrl = "https://api.goy.guru/api/v1"
+  , configBaseUrl = "https://api.datereg.pro/api/v1"
   , configTimeout = 30
   , configCacheTtl = 3600
   , configCacheSize = 128
